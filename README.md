@@ -17,10 +17,13 @@ To build a CNN based model which can accurately detect melanoma. Melanoma is a t
 
 
 ## Technologies Used
-- pandas - for data manipulation and analysis.
-- numpy - for handling large, multi-dimensional arrays and matrices
-- scikit-learn - for implementing various machine learning, preprocessing, cross-validation and visualization algorithms
-- matplotlib - for data visualization and graphical plotting.
+- Python - 3.7
+- Pandas - 1.1.5
+- NumPy - 1.19.5
+- TensorFlow - 2.4
+- Keras - 2.4
+- Augmentor - 0.2.8
+
 
 
 ## Conclusions
@@ -28,3 +31,8 @@ To build a CNN based model which can accurately detect melanoma. Melanoma is a t
 - custom model  provide insights into the model architecture and its performance.
 - Demonstrates the potential of AI in medical diagnosis
 - Data augmentation significantly improved the model's performance and helped in handling class imbalances.
+
+## Contact
+Created by [@amitkumar-dghar] - feel free to contact me!
+
+
