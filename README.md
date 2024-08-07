@@ -9,11 +9,11 @@ To build a CNN based model which can accurately detect melanoma. Melanoma is a t
 
 
 ## General Information
-- The purpose of this project is to help BoomBikes understand the dynamics of shared bike demand after the Covid-19 pandemic. The project's primary objective includes identifying major variables influencing bike demand and predicting future demands with a high degree of accuracy.
+- The purpose of this project is to build multiclass classification model using a custom convolutional neural network.
 
 - The need for this project emerged from significant revenue losses due to decreased mobility amidst the pandemic. The project aims to facilitate strategic business planning to accelerate revenue growth post-pandemic.
 
-- The dataset used in this project consists of daily bike rental records. It includes variables such as weather conditions, seasonality, and user type (either casual or registered). The dataset covers the years 2018 and 2019.
+- The dataset consists of 2357 images of malignant and benign oncological diseases, which were formed from the International Skin Imaging Collaboration (ISIC).
 
 
 ## Technologies Used
@@ -24,6 +24,7 @@ To build a CNN based model which can accurately detect melanoma. Melanoma is a t
 
 
 ## Conclusions
-- The linear regression model demonstrates a strong ability to predict bike rental demand, with an R-squared score of approximately 0.852 on the test set, suggesting that the chosen features strongly indicate demand.
-- Seasonal and weather-related variables, along with the year of rental, significantly impact bike rental demand, thereby underscoring the importance of strategic planning around these factors.
-- It is recommended to continuously monitor and adjust the model as more data becomes available, especially considering potential shifts in user behavior post-pandemic.
+- CNN model achieved a high accuracy in detection of melanoma.
+- custom model  provide insights into the model architecture and its performance.
+- Demonstrates the potential of AI in medical diagnosis
+- Data augmentation significantly improved the model's performance and helped in handling class imbalances.
