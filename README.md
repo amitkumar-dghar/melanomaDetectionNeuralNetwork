@@ -1,1 +1,1 @@
-# melanomaDetectionNeuralNetwork
+# Skin Cancer Detection
